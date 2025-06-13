@@ -1,0 +1,66 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files (if applicable)
+.idea/
+
+# Build logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Auto-generated files
+Generated_Code/
+
+# Dependency caches
+packages/
+*.nupkg
+
+# Backup files
+*.bak
+*.swp
+
+# Publish output
+publish/
+artifacts/
+app.publish/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Secrets
+secrets.json
+.env
+appsettings.json
+appsettings.Development.json
+
+# User global configs
+*.dbmdl
+
+# Dotnet user secrets
+**/secrets/*.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Runtime data — ignore only bin outputs
+bin/**/Storage/
+
+# Keep Storage folder in solution root (this one will be versioned)
+# (No ignore rule here — we want Storage/ versioned in root)
+
+# Logs (if you log to local folder)
+Logs/
+logs/

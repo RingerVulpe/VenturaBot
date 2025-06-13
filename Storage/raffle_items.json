@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Id": "raffle_small_dune_crate",
+    "Name": "Small Dune Crate",
+    "Category": "raffle",
+    "Description": "Contains a random 1–3 common schematics",
+    "EntryCost": 10,
+    "Stock": 5,
+    "ImageUrl": "https://cdn.example.com/images/small_crate.png",
+    "IsHidden": false
+  },
+  {
+    "Id": "raffle_medium_dune_crate",
+    "Name": "Medium Dune Crate",
+    "Category": "raffle",
+    "Description": "Contains 2–4 uncommon schematics",
+    "EntryCost": 25,
+    "Stock": 3,
+    "ImageUrl": "https://cdn.example.com/images/medium_crate.png",
+    "IsHidden": false
+  },
+  {
+    "Id": "raffle_large_dune_crate",
+    "Name": "Large Dune Crate",
+    "Category": "raffle",
+    "Description": "Contains 1 rare + 1 epic schematic",
+    "EntryCost": 50,
+    "Stock": 1,
+    "ImageUrl": "https://cdn.example.com/images/large_crate.png",
+    "IsHidden": false
+  }
+]

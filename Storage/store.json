@@ -1,0 +1,79 @@
+[
+  {
+    "Id": "test_item",
+    "Name": "Test Item",
+    "Category": "admin",
+    "Description": "this is just for testing purposes",
+    "BasePrice": 1,
+    "Stock": 1,
+    "Demand": 4,
+    "ImageUrl": "https://cdn.discordapp.com/attachments/1379690732704759859/1382897015247081543/Screenshot_2025-06-01_223230.png?ex=684cd2b5\u0026is=684b8135\u0026hm=5dd50c4b3ef35e9e742f2f93517ea05c88b0bac92cbfd265030f2543c1b30574\u0026",
+    "IsHidden": false
+  },
+  {
+    "Id": "thufirs_best",
+    "Name": "Thufir\u0027s Best",
+    "Category": "schematic",
+    "Description": "**Damage Type:** Heavy Dart\n**Fire Mode:** Semi-Automatic\n**Damage Per Shot:** 262.1\n**Rate of Fire:** 78\n**Clip Size:** 2\n**Reload Speed:** 2\n**Effective Range:** 75\n**Accuracy:** 1.2",
+    "BasePrice": 7500,
+    "Stock": 1,
+    "Demand": 0,
+    "ImageUrl": "https://images-ext-1.discordapp.net/external/EdyBwIbuTTFUEq6FYu2Z5ZkS_6roTyiJxbRSX8A8LhA/%3Fv%3D1749760141068%2522/https/gtcdn.info/dune/1.1.0.11/images/dune/gui/textures/icons/gameplay/weapons/player/t_ui_iconwpnlongrifle_unique_poison_05r_d.webp?format=webp",
+    "IsHidden": false
+  },
+  {
+    "Id": "mendeks_boots",
+    "Name": "Mendek\u0027s Boots",
+    "Category": "schematic",
+    "Description": "Tier: 5 Unique 1V\nArmor Type: Heavy Armor\nDash Stamina Cost: 4.5%\nLight Dart Mitigation: 3.8%\nEnergy Mitigation: 3.8%\nBlade Mitigation: -6.0%\nConcussive Mitigation: 3.8%\nHeavy Dart Mitigation: 3.8%\nArmor Value: 213",
+    "BasePrice": 7500,
+    "Stock": 1,
+    "Demand": 0,
+    "ImageUrl": "https://gtcdn.info/dune/1.1.0.11/images/dune/gui/textures/icons/gameplay/clothing/gear/t_ui_iconclothheavyuniquereinforcedboots05r_d.webp?v=1749760141068",
+    "IsHidden": false
+  },
+  {
+    "Id": "piters_disruptor",
+    "Name": "Piter\u0027s Disruptor",
+    "Category": "schematic",
+    "Description": "Tier: 5 Unique 2V\nWeapon Type: Sidearm\nDamage Type: Heavy Dart\nFire Mode: Automatic\nDamage Per Shot: 23.3\nRate of Fire: 462\nClip Size: 52\nReload Speed: 1.52\nEffective Range: 10\nAccuracy: 0.43",
+    "BasePrice": 15000,
+    "Stock": 1,
+    "Demand": 0,
+    "ImageUrl": "https://gtcdn.info/dune/1.1.0.11/images/dune/gui/textures/icons/gameplay/weapons/player/t_ui_iconwpnuniquesmg2r_d.webp?v=1749760141068",
+    "IsHidden": false
+  },
+  {
+    "Id": "kels_stillsuit_boots",
+    "Name": "Kel\u0027s Stillsuit Boots",
+    "Category": "schematic",
+    "Description": "Tier: 3 Unique 1V\nArmor Type: Water Discipline\nHeat Protection: 0.6\nArmor Value: 71",
+    "BasePrice": 2500,
+    "Stock": 1,
+    "Demand": 0,
+    "ImageUrl": "https://gtcdn.info/dune/1.1.0.11/images/dune/gui/textures/icons/gameplay/clothing/stillsuits/t_ui_iconclothstillsuituniquearmored03bootsr_d.webp?v=1749760141068",
+    "IsHidden": true
+  },
+  {
+    "Id": "artisan_disruptor_pistol",
+    "Name": "Artisan Disruptor Pistol",
+    "Category": "schematic",
+    "Description": "Tier: 3 Unique 1V\nWeapon Type: Sidearm\nDamage Type: Heavy Dart\nFire Mode: Semi-Automatic\nDamage Per Shot: 166.9\nRate of Fire: 65\nClip Size: 4\nReload Speed: 1.77\nEffective Range: 30\nAccuracy: 2.44",
+    "BasePrice": 500,
+    "Stock": 1,
+    "Demand": 0,
+    "ImageUrl": "https://gtcdn.info/dune/1.1.0.11/images/dune/gui/textures/icons/gameplay/weapons/player/t_ui_iconwpnheavypistol_unique_bleed_03r_d.webp?v=1749760141068",
+    "IsHidden": false
+  },
+  {
+    "Id": "power_gauntlets",
+    "Name": "Power Gauntlets",
+    "Category": "schematic",
+    "Description": "These Unique gauntlets were developed to help fatigued miners keep going when their tools were running low. Containing a series of capacitors within them, they help to even out the power flow and increase efficiency. The Sandflies have co-opted these gauntlets for use in their own operations.\n\nTier: 4 Unique 1V\nGarment Type: Heavy Armor\nDash Stamina Cost: 3.8%\nPower Usage: -10.0%\nLight Dart Mitigation: 3.0%\nBlade Mitigation: -6.0%\nConcussive Mitigation: 3.0%\nHeavy Dart Mitigation: 3.0%\nArmor Value: 188",
+    "BasePrice": 1500,
+    "Stock": 0,
+    "Demand": 2,
+    "ImageUrl": "https://gtcdn.info/dune/1.1.0.11/images/dune/gui/textures/icons/gameplay/clothing/gear/t_ui_iconclothheavyuniquepowerefficientgloves04r_d.webp?v=1749760141068",
+    "IsHidden": false
+  }
+]
